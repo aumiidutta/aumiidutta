@@ -1,6 +1,6 @@
 ## Hacktoberfest[S10] 2023:
 [Link to visit my forest planted on behalf of Hacktoberfest](https://tree-nation.com/trees/view/5267987) <br><br>
-[![board](https://github.com/aumii01codes/aumii01codes/assets/116259393/5f6926eb-29ca-4cd8-9795-7576c2c4dd2e)](https://www.holopin.io/@aumii01codes#)
+[![Holopin badges](https://holopin.me/aumii01codes)](https://holopin.io/@aumii01codes)
 
 
 # 💫 About Me:
