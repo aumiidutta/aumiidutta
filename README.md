@@ -43,7 +43,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl&hide_border=true)
 
 
 [![](https://visitcount.itsvg.in/api?id=aumiidutta&icon=6&color=6)](https://visitcount.itsvg.in)
