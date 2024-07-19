@@ -46,4 +46,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl)
 
 
-[![](https://visitcount.itsvg.in/api?id=aumiidutta&icon=fire&color=indigo)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aumiidutta&icon=6&color=6)](https://visitcount.itsvg.in)
