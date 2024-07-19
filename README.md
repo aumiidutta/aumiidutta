@@ -36,3 +36,5 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/aumiidutta)<br /><br />
 
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aumiidutta&theme=light&hide_border=true&include_all_commits=true&count_private=true)
