@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/10c4e63c-59d7-4510-bd60-94deca5b87c8">
+</div>
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saumili Dutta
 - 🧑‍🎓Recent graduate of B.Voc (Software Development) from Asutosh College <br />
 - 🧑‍💼Kolkata Lead of OS Community<br />
