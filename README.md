@@ -37,4 +37,13 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aumiidutta&theme=light&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=aumiidutta&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aumiidutta&theme=light&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aumiidutta&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl)
+
+
+[![](https://visitcount.itsvg.in/api?id=aumiidutta&icon=fire&color=indigo)](https://visitcount.itsvg.in)
