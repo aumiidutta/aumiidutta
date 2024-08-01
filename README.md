@@ -3,7 +3,7 @@
 </div>
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saumili Dutta
-- 🧑‍🎓Recent graduate of B.Voc (Software Development) from Asutosh College <br />
+- 🧑‍🎓UG Student of B.Voc (Software Development) from Asutosh College <br />
 - 🧑‍💼Kolkata Lead of OS Community<br />
 - 🧑‍💻Volunteer at AWS user group<br />
 - 🦸KubeCaptain of my college<br />
