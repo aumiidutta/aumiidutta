@@ -11,11 +11,11 @@
   - ✍🏻Content team at [Postman Kolkata community](https://www.linkedin.com/company/postman-community-kolkata/)
   - ✍🏻Content team at [SourcifyIN](https://www.linkedin.com/company/sourcifyin)
   - 🧑‍💻Technical team at [DevRhylme Foundation](https://www.devrhylme.org/)
-  - 🎤Co-host at [Code & Connect Blr](https://x.com/shebuildshack/status/1866703351842500672)
+  - 🎤Co-host at [Code & Connect Blr at Dec'24](https://x.com/shebuildshack/status/1866703351842500672)
   - 🧑‍💻Volunteer at [AWS user group](https://www.meetup.com/awsugkol/)
   - 🧑‍💻Volunteer at [Kolkata Wordpress Community](https://wpkolkata.org/)
-  - 🕴🏻Student Ambassador at [Blackbox AI](https://www.blackbox.ai/)
-  - 🦸KubeCaptain at [cnhooghly](https://www.cloudnativehooghly.tech/)
+  - 🕴🏻Ex-Student Ambassador at [Blackbox AI](https://www.blackbox.ai/)
+  - 🦸Ex-KubeCaptain at [cnhooghly](https://www.cloudnativehooghly.tech/)
   - 🌍 Based in Kolkata
   - 😄 Pronouns: she/her/they/them
   - 🖥️ See my [portfolio](https://saumilidutta.vercel.app/)
