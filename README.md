@@ -11,7 +11,6 @@
   - ✍🏻Content team at [Postman Kolkata community](https://www.linkedin.com/company/postman-community-kolkata/)
   - ✍🏻Content team at [SourcifyIN](https://www.linkedin.com/company/sourcifyin)
   - 🧑‍💻Technical team at [DevRhylme Foundation](https://www.devrhylme.org/)
-  - 🎨Design team at [ML Kolkata](https://www.linkedin.com/company/mlkolkata)
   - 🎤Co-host at [Code & Connect Blr](https://x.com/shebuildshack/status/1866703351842500672)
   - 🧑‍💻Volunteer at [AWS user group](https://www.meetup.com/awsugkol/)
   - 🧑‍💻Volunteer at [Kolkata Wordpress Community](https://wpkolkata.org/)
