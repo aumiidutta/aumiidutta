@@ -1,25 +1,23 @@
+# Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saumili Dutta
+
 <table>
   <tr>
     <td align="left" style="border:none">
       
-  # Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saumili Dutta  
+  ## About me  
 
   - 🧑‍🎓Graduate '24 of B.Voc[Software Development] from [Asutosh College](https://asutoshcollege.in/new-web/)
   - 👩🏻‍💼Graduate Trainee <!--@TCS-->
-  - 🎤Co-speaker at [Gnome Asia Summit '24](https://www.youtube.com/live/zMKcTnhZVnE?si=MyHtAdy_FfP09ZfS&t=183)
-  - 🎤Panelist at [AWS Kolkata Women's Day Meetup 2025](https://saumili-aws.hashnode.dev/aws-kolkata-hosts-womens-day-celebration)
+  - 🎤Co-speaker at [Gnome Asia Summit '24](https://www.youtube.com/live/zMKcTnhZVnE?si=MyHtAdy_FfP09ZfS&t=183) & Panelist at [AWS Kolkata Women's Day Meetup 2025](https://saumili-aws.hashnode.dev/aws-kolkata-hosts-womens-day-celebration)
   - 🧑‍💻Ex-Kolkata Lead of [OS Community](https://osdevcommunity.vercel.app/)
-  - ✍🏻Content team at [Postman Kolkata community](https://www.linkedin.com/company/postman-community-kolkata/)
-  - ✍🏻Ex-Content coordinator at [SourcifyIN](https://www.linkedin.com/company/sourcifyin)
-  - 🧑‍💻Volunteer at [Wordcamp Kolkata 2025](https://kolkata.wordcamp.org/2025/)
-  - 🧑‍💻Volunteer at [AWS Community Day Kolkata 2025](https://awsugkol.github.io/acd2025/)
+  - ✍🏻Content team at [Postman Kolkata community](https://www.linkedin.com/company/postman-community-kolkata/) & Ex-Content coordinator at [SourcifyIN](https://www.linkedin.com/company/sourcifyin)
+  - 🧑‍💻Volunteer at [Wordcamp Kolkata 2025](https://kolkata.wordcamp.org/2025/), [AWS Community Day Kolkata 2025](https://awsugkol.github.io/acd2025/)
+  - 🧑‍💻Ex-Volunteer at [AWS user group Kolkata](https://www.meetup.com/awsugkol/), [Kolkata Wordpress Community](https://wpkolkata.org/), [ML Kolkata](https://www.linkedin.com/company/mlkolkata)
   - 🧑‍💻Ex-Tech team at [DevRhylme Foundation](https://www.devrhylme.org/)
-  - 🧑‍💻Ex-Volunteer at [AWS user group Kolkata](https://www.meetup.com/awsugkol/)
-  - 🧑‍💻Ex-Volunteer at [Kolkata Wordpress Community](https://wpkolkata.org/)
   - 🦸Ex-KubeCaptain at [CNHooghly](https://www.cloudnativehooghly.tech/)
   - 🕴🏻Ex-Student Ambassador at [Blackbox AI](https://www.blackbox.ai/)
   - 🧑‍💻Co-host at [Code & Connect Blr at Dec'24](https://x.com/shebuildshack/status/1866703351842500672)
-  - 🧑‍💻Ex-Volunteer at ML Kolkata
+
   - 🌍 Based in Kolkata
   - 😄 Pronouns: she/her/they/them
   - 🖥️ See my [portfolio](https://saumilidutta.vercel.app/)
