@@ -5,17 +5,21 @@
   # Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saumili Dutta  
 
   - 🧑‍🎓Graduate '24 of B.Voc[Software Development] from [Asutosh College](https://asutoshcollege.in/new-web/)
-  <!-- - 👩🏻‍💼Graduate trainee @TCS -->
-  - 👩🏻‍💼Co-speaker at [Gnome Asia Summit '24](https://www.youtube.com/live/zMKcTnhZVnE?si=MyHtAdy_FfP09ZfS&t=183)
-  - 🧑‍💼Kolkata Lead of [OS Community](https://osdevcommunity.vercel.app/)
+  - 👩🏻‍💼Graduate Trainee <!--@TCS-->
+  - 🎤Co-speaker at [Gnome Asia Summit '24](https://www.youtube.com/live/zMKcTnhZVnE?si=MyHtAdy_FfP09ZfS&t=183)
+  - 🎤Panelist at [AWS Kolkata Women's Day Meetup 2025](https://saumili-aws.hashnode.dev/aws-kolkata-hosts-womens-day-celebration)
+  - 🧑‍💻Ex-Kolkata Lead of [OS Community](https://osdevcommunity.vercel.app/)
   - ✍🏻Content team at [Postman Kolkata community](https://www.linkedin.com/company/postman-community-kolkata/)
-  - ✍🏻Content team at [SourcifyIN](https://www.linkedin.com/company/sourcifyin)
-  - 🧑‍💻Technical team at [DevRhylme Foundation](https://www.devrhylme.org/)
-  - 🎤Co-host at [Code & Connect Blr at Dec'24](https://x.com/shebuildshack/status/1866703351842500672)
-  - 🧑‍💻Volunteer at [AWS user group](https://www.meetup.com/awsugkol/)
-  - 🧑‍💻Volunteer at [Kolkata Wordpress Community](https://wpkolkata.org/)
+  - ✍🏻Ex-Content coordinator at [SourcifyIN](https://www.linkedin.com/company/sourcifyin)
+  - 🧑‍💻Volunteer at [Wordcamp Kolkata 2025](https://kolkata.wordcamp.org/2025/)
+  - 🧑‍💻Volunteer at [AWS Community Day Kolkata 2025](https://awsugkol.github.io/acd2025/)
+  - 🧑‍💻Ex-Tech team at [DevRhylme Foundation](https://www.devrhylme.org/)
+  - 🧑‍💻Ex-Volunteer at [AWS user group Kolkata](https://www.meetup.com/awsugkol/)
+  - 🧑‍💻Ex-Volunteer at [Kolkata Wordpress Community](https://wpkolkata.org/)
+  - 🦸Ex-KubeCaptain at [CNHooghly](https://www.cloudnativehooghly.tech/)
   - 🕴🏻Ex-Student Ambassador at [Blackbox AI](https://www.blackbox.ai/)
-  - 🦸Ex-KubeCaptain at [cnhooghly](https://www.cloudnativehooghly.tech/)
+  - 🧑‍💻Co-host at [Code & Connect Blr at Dec'24](https://x.com/shebuildshack/status/1866703351842500672)
+  - 🧑‍💻Ex-Volunteer at ML Kolkata
   - 🌍 Based in Kolkata
   - 😄 Pronouns: she/her/they/them
   - 🖥️ See my [portfolio](https://saumilidutta.vercel.app/)
@@ -54,13 +58,8 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aumiidutta&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aumiidutta&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aumiidutta&theme=light&hide_border=false)<br /><br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aumiidutta&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br /><br />
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl&hide_border=true)<br /><br />
-
-
-[![](https://visitcount.itsvg.in/api?id=aumiidutta&icon=6&color=6)](https://visitcount.itsvg.in)
