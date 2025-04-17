@@ -54,7 +54,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumilidutta)
 [![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/aumiidutta)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@saumilidutta)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/aumiidutta)<br /><br />
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/aumiidutta)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@aumiidutta)
+<br /><br />
 
 
 ## 📊 GitHub Stats:
