@@ -12,10 +12,8 @@
   - ✍🏻Content team at [Postman Kolkata community](https://www.linkedin.com/company/postman-community-kolkata/) & Ex-Content coordinator at [SourcifyIN](https://www.linkedin.com/company/sourcifyin)
   - 🧑‍💻Volunteer at [Wordcamp Kolkata 2025](https://kolkata.wordcamp.org/2025/), [AWS Community Day Kolkata 2025](https://awsugkol.github.io/acd2025/)
   - 🧑‍💻Ex-Volunteer at [AWS user group Kolkata](https://www.meetup.com/awsugkol/), [Kolkata Wordpress Community](https://wpkolkata.org/), [ML Kolkata](https://www.linkedin.com/company/mlkolkata)
-  - 🧑‍💻Ex-Kolkata Lead of [OS Community](https://osdevcommunity.vercel.app/)
-  - 🧑‍💻Ex-Tech team at [DevRhylme Foundation](https://www.devrhylme.org/)
-  - 🦸Ex-KubeCaptain at [CNHooghly](https://www.cloudnativehooghly.tech/)
-  - 🕴🏻Ex-Student Ambassador at [Blackbox AI](https://www.blackbox.ai/)
+  - 🧑‍💻Ex-Kolkata Lead of [OS Community](https://osdevcommunity.vercel.app/), Ex-Tech team at [DevRhylme Foundation](https://www.devrhylme.org/)
+  - 🕴Ex-KubeCaptain at [CNHooghly](https://www.cloudnativehooghly.tech/), Ex-Student Ambassador at [Blackbox AI](https://www.blackbox.ai/)
   - 🧑‍💻Co-host at [Code & Connect Blr at Dec'24](https://x.com/shebuildshack/status/1866703351842500672)
 
   - 🌍 Based in Kolkata
