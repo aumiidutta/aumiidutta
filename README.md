@@ -7,7 +7,7 @@
   ## About me  
 
   - 🧑‍🎓Graduate '24 of B.Voc[Software Development] from [Asutosh College](https://asutoshcollege.in/new-web/)
-  - 👩🏻‍💼Graduate Trainee <!--@TCS-->
+  - 👩🏻‍💼Trainee @TCS
   - 🎤Co-speaker at [Gnome Asia Summit '24](https://www.youtube.com/live/zMKcTnhZVnE?si=MyHtAdy_FfP09ZfS&t=183) & Panelist at [AWS Kolkata Women's Day Meetup 2025](https://saumili-aws.hashnode.dev/aws-kolkata-hosts-womens-day-celebration)
   - ✍🏻Content team at [Postman Kolkata community](https://www.linkedin.com/company/postman-community-kolkata/) & Ex-Content coordinator at [SourcifyIN](https://www.linkedin.com/company/sourcifyin)
   - 🧑‍💻Volunteer at [Wordcamp Kolkata 2025](https://kolkata.wordcamp.org/2025/), [AWS Community Day Kolkata 2025](https://awsugkol.github.io/acd2025/)
